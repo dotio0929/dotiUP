@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "乱数生成プログラム/1.0.0": {
+        "runtime": {
+          "乱数生成プログラム.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "乱数生成プログラム/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
